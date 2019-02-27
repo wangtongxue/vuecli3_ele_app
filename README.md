@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mobile_app
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vuecli3_ele_app
+vuecli3搭建的ele的网页app，进程中。。。
+>>>>>>> 266f935c4546764aa2a2171ff57d7dd18491d887
